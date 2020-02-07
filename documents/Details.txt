@@ -1,0 +1,42 @@
+1) University / College Roll #          : 163677102151
+2) First Name                           : SURESH
+3) Last Name                            : TUMMA
+4) Mobile Number                        : 8008992529
+5) Gender                               : Male
+6) Email ID                             : sureshtumma67@gmail.com
+7) DOB                                  : 20/03/1997
+8) Nationality                          : Indian
+9) 10th School Name                     : Z P P HIGH SCHOOL, CHINTAPARRU
+10) 10th Board                          : BOARD OF SECONDARY EDUCATION, A.P (Directorate of Government Examinations)
+11) Agg % in 10th                       : 65%
+12) 10th Passing Year                   : 2013
+13) 12th School Name                    : SRI GOWTHAMIJUNIOR COLLEGE, POOLAPALLI
+14) Agg % in 12th                       : 62%
+15) 12th Board                          : BOARD OF INTERMEDIATE EDUCATION, A.P(Andhra pradesh)
+16) NA
+17) 12th Passing Year                   : 2015
+18) Graduation College Name             : BRR & GKR CHAMBERS DEGREE COLLEGE, PALAKOL
+19) Graduation Degree                   : B.Sc. (Computer)
+20) NA
+21) Graduation Specialization           : Computers
+22) Aggr % in Graduation                : 75%
+23) Graduation Passing Year             : 2019
+24) # of Standing Arrears pending       : 0
+25) Permanent Address (Line 1)          :  HNO 3-110, Near High school
+26) Permanent Address (Line 2)          : Chintaparru
+27) Permanent State                     : Andhra Pradesh
+28) Permanent City                      : Palakol
+29) Postal Code                         : 534250
+30) Current Address                     : HNO 3-110, Near High school, Chintaparru
+31) Current State                       : Andhra Pradesh
+32) Current City                        : Palakol
+33) Current City Pincode                : 534250
+34) Are you flexible                    : YES
+35) History of Arrears                  : 0
+36) Preferred Interview Location        : HYDERABAD
+37) Father's Name                       : RAMA KRISHNA TUMMA
+38) Education Gap                       : 1 Year
+39) PAN                                 : No PAN
+
+
+
